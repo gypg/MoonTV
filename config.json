@@ -76,6 +76,54 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
+    },
+    "taopian": {
+      "api": "https://taopianapi.com/cjapi/sda/vod",
+      "name": "淘片资源"
+    },
+    "baofeng": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源"
+    },
+    "liangzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子云资源"
+    },
+    "xinlang": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源"
+    },
+    "huya": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源"
+    },
+    "guangsu": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
+    "jisu": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "急速资源"
+    },
+    "hongniu": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
+    "uku": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "优酷资源"
+    },
+    "索尼": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    },
+    "蜂巢": {
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢资源"
+    },
+    "haohua": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    },
   }
 }
